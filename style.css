@@ -12,7 +12,7 @@ a {
 }
 
 #bkht::before{
-    content: url(/img/swa.heic);
+    content: url(img/swa.heic);
     position: absolute;
     
 
